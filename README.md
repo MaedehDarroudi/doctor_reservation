@@ -5,4 +5,8 @@ Booking doctors for patients so that each patient has only one active appointmen
 # run project
 
 1) npm i
+
+
+
 2)npm start
+
