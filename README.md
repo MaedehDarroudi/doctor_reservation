@@ -3,7 +3,10 @@ Booking doctors for patients so that each patient has only one active appointmen
 
 
 # run project
-run this project in your terminal.
+
+for run this project import sql file in your mysql
+
+then run this command in your terminal:
 
 1) npm i
 
